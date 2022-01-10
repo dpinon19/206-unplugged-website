@@ -566,6 +566,10 @@ input[type="button"] {
     justify-content: space-between;
   }
 
+  header nav li {
+    padding-left: 1em;
+  }
+
   .header-divider {
     display: none;
   }
@@ -742,6 +746,7 @@ input[type="button"] {
     font-size: 1.125em;
     line-height: 1.333;
   }
+
   /* Hero */
   .hero-area h1 {
     font-size: 3.75em;
