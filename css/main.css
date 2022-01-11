@@ -213,6 +213,8 @@ header nav ul {
 
 header nav ul li {
   font-size: 1.125em;
+  align-items: center;
+  padding-right: 1em;
 }
 
 footer {
